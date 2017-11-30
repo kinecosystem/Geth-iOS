@@ -34,7 +34,7 @@ $ git add .
 $ git commit -m "updated framework"
 $ git push
 ```
-This will place latest Geth-framework buyild into Geth-iOS.
+This will place latest Geth-framework build into Geth-iOS.
 The pod spec in kinfoundation/kin-sdk-core-ios uses the HEAD of master
 The only other thing to do is to bump the pod spec to make sure host app will fetch latest change
 
